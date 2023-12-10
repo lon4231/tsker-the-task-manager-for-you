@@ -1,1 +1,1 @@
-# tsker-the-task-manager-for-you
+tsker is the terminal executable "TODO list"
